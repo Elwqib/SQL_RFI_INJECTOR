@@ -1,3 +1,3 @@
 <?php
- systeam("cat /etc/passwd");
+ system("cat /etc/passwd");
 ?> 
